@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"target_inspections:ETI"@Pod::Installer::Analyzer::AnalysisResult#target_inspections;FI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"J@return [Hash{TargetDefinition => Array<TargetInspectionResult>}] the;To:RDoc::Markup::Verbatim;	[I"+results of inspecting the user targets;T:@format0:
+@fileI"8lib/cocoapods/installer/analyzer/analysis_result.rb;T:0@omit_headings_from_table_of_contents_below0F@I"-Pod::Installer::Analyzer::AnalysisResult;FcRDoc::NormalClass0

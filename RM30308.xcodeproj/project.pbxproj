@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EC3B17481FD306C500FADA28 /* BeersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC3B17471FD306C500FADA28 /* BeersViewController.swift */; };
+		EC3B174A1FD306E600FADA28 /* Beer.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC3B17491FD306E600FADA28 /* Beer.swift */; };
+		EC3B174C1FD31CC600FADA28 /* Rest.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC3B174B1FD31CC600FADA28 /* Rest.swift */; };
 		EC3F22891FD2FA5200781BBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC3F22881FD2FA5200781BBE /* AppDelegate.swift */; };
 		EC3F228B1FD2FA5200781BBE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC3F228A1FD2FA5200781BBE /* ViewController.swift */; };
 		EC3F228E1FD2FA5200781BBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC3F228C1FD2FA5200781BBE /* Main.storyboard */; };
@@ -15,6 +18,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EC3B17471FD306C500FADA28 /* BeersViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BeersViewController.swift; sourceTree = "<group>"; };
+		EC3B17491FD306E600FADA28 /* Beer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Beer.swift; sourceTree = "<group>"; };
+		EC3B174B1FD31CC600FADA28 /* Rest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Rest.swift; sourceTree = "<group>"; };
 		EC3F22851FD2FA5200781BBE /* RM30308.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RM30308.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EC3F22881FD2FA5200781BBE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EC3F228A1FD2FA5200781BBE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,7 +62,10 @@
 			children = (
 				EC3F22881FD2FA5200781BBE /* AppDelegate.swift */,
 				EC3F228A1FD2FA5200781BBE /* ViewController.swift */,
+				EC3B174B1FD31CC600FADA28 /* Rest.swift */,
 				EC3F228C1FD2FA5200781BBE /* Main.storyboard */,
+				EC3B17471FD306C500FADA28 /* BeersViewController.swift */,
+				EC3B17491FD306E600FADA28 /* Beer.swift */,
 				EC3F228F1FD2FA5200781BBE /* Assets.xcassets */,
 				EC3F22911FD2FA5200781BBE /* LaunchScreen.storyboard */,
 				EC3F22941FD2FA5200781BBE /* Info.plist */,
@@ -137,8 +146,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EC3B17481FD306C500FADA28 /* BeersViewController.swift in Sources */,
 				EC3F228B1FD2FA5200781BBE /* ViewController.swift in Sources */,
+				EC3B174C1FD31CC600FADA28 /* Rest.swift in Sources */,
 				EC3F22891FD2FA5200781BBE /* AppDelegate.swift in Sources */,
+				EC3B174A1FD306E600FADA28 /* Beer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,6 +281,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = br.com.fiap.RM30308;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -282,6 +295,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = br.com.fiap.RM30308;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -304,6 +318,7 @@
 				EC3F22991FD2FA5200781BBE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

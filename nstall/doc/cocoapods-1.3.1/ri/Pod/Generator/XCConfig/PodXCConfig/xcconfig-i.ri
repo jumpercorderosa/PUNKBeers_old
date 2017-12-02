@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"xcconfig:ETI"3Pod::Generator::XCConfig::PodXCConfig#xcconfig;FI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"8@return [Xcodeproj::Config] The generated xcconfig.;T:
+@fileI"5lib/cocoapods/generator/xcconfig/pod_xcconfig.rb;T:0@omit_headings_from_table_of_contents_below0F@I"*Pod::Generator::XCConfig::PodXCConfig;FcRDoc::NormalClass0

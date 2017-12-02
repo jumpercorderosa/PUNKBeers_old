@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"specs_updated?:ETI",Pod::Installer::Analyzer#specs_updated?;FI"RW;T:privateo:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"J@return [Bool] Whether the analysis has updated sources repositories.;T:
+@fileI"(lib/cocoapods/installer/analyzer.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Pod::Installer::Analyzer;FcRDoc::NormalClass0

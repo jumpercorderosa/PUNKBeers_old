@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"installation_options:ETI"DPod::Installer::InstallationOptions::Mixin#installation_options;FI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"<@return [InstallationOptions] The installation options.;T:
+@fileI"4lib/cocoapods/installer/installation_options.rb;T:0@omit_headings_from_table_of_contents_below0F@I"/Pod::Installer::InstallationOptions::Mixin;FcRDoc::NormalModule0

@@ -1,0 +1,4 @@
+U:RDoc::Attr[iI"has_dependencies?:ETI"/Pod::Installer::Analyzer#has_dependencies?;FI"RW;T:publico:RDoc::Markup::Document:@parts[	o:RDoc::Markup::Paragraph;	[I"B@return [Bool] Whether the analysis has dependencies and thus;To:RDoc::Markup::Verbatim;	[I"!sources must be configured.
+;T:@format0o;
+;	[I"B@note   This is used by the `pod lib lint` command to prevent;To;;	[I"%update of specs when not needed.;T;0:
+@fileI"(lib/cocoapods/installer/analyzer.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Pod::Installer::Analyzer;FcRDoc::NormalClass0

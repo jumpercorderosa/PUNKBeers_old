@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"test_native_targets:ETI"'Pod::PodTarget#test_native_targets;FI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"Vreturn [Array<PBXNativeTarget>] the test target generated in the Pods project for;To:RDoc::Markup::Verbatim;	[I">this library or `nil` if there is no test target created.;T:@format0:
+@fileI"'lib/cocoapods/target/pod_target.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Pod::PodTarget;FcRDoc::NormalClass0
